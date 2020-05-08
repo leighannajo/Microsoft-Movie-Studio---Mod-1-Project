@@ -4,3 +4,5 @@ __pycache__
 *.db
 *.pytest_cache
 TMDBjson_import.ipynb
+zippedData.csv
+zippedData.gv
