@@ -53,6 +53,9 @@ Microsoft has decided to get into show business!  This project's purpose is to h
 - tn.movie_budgets.csv 
 </details>
 
+
+
+
 ## Questions:
 <details>
 <summary style="font-size:3.5vw">What are the top genres in terms of popularity?</summary>
@@ -147,6 +150,8 @@ Future Work:
 - Compare studio competition to optimize niche markets
 
 
+<a href="https://medium.com/@leighannajohooper/my-first-data-science-group-project-f431aef79be8"> Project Blog</a>
+<a href="https://www.youtube.com/watch?v=rJh9f60qIic"> Project Blog</a>
 
 </div>
 
