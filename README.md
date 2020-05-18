@@ -151,7 +151,8 @@ Future Work:
 
 
 <a href="https://medium.com/@leighannajohooper/my-first-data-science-group-project-f431aef79be8"> Project Blog</a>
-<a href="https://www.youtube.com/watch?v=rJh9f60qIic"> Project Blog</a>
+<br>
+<a href="https://www.youtube.com/watch?v=rJh9f60qIic"> Project Video</a>
 
 </div>
 
